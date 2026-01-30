@@ -48,14 +48,16 @@ div{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 .blue{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 .blue h2{
@@ -70,7 +72,8 @@ div{
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border: 0px 0px 2px 5px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 
@@ -82,7 +85,8 @@ div{
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0px 0px;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 footer{
